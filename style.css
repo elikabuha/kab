@@ -7,8 +7,8 @@ font-family: "Open+sans", sans-serif;
 	 /*min-height: 40vw;*/
 	 background-color: white;
 	 margin-top: 20px;
-	/*background-image: url("images/bg.jpg");*/
-	backgroung-color:black;
+	background-image: url("images/bg.jpg");
+	background-color:black;
 
 }
 .navbar{
