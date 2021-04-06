@@ -149,6 +149,7 @@ font-family: "Open+sans", sans-serif;
 	margin-left:5vw;
 	font-family: "Merriweather", sans-serif;
 	color: white;
+	font-weight: 3vw;
 	
 	}
 	.title2 a{
@@ -159,6 +160,7 @@ font-family: "Open+sans", sans-serif;
 	/*padding: 6px;*/
 	border-radius: 5px;
 	border: 2px solid white;
+	
 }
 .title2 a:hover{
 	
